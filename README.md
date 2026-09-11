@@ -174,8 +174,6 @@ ModernUI/
 This project is open source and available under the [MIT License](LICENSE).
 ```
 
----
-
 ### কিভাবে ব্যবহার করবেন:
 
 1. প্রজেক্ট ফোল্ডারে `README.md` নামে একটি নতুন ফাইল তৈরি করুন।
