@@ -1,6 +1,3 @@
-এখানে আপনার GitHub রিপোর জন্য একটি পরিষ্কার ও প্রফেশনাল `README.md` ফাইল দিলাম। সরাসরি কপি করে ব্যবহার করতে পারেন।
-
-```markdown
 # ModernUI - WPF UI Example
 
 A modern Windows desktop application built with **WPF** and **[WPF-UI](https://github.com/lepoco/wpfui)** library.  
